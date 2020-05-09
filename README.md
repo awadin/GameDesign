@@ -48,5 +48,4 @@ takes on the new velocity of the cannonball and drags the rest of the points wit
 The ghost retains its shape by having invisible support beams (sticks) within the ghost, so it
 remains rigid, but also has quite a bit of floppiness to it. These sticks will have the property of
 “hidden”.
-Thank you!!
 
